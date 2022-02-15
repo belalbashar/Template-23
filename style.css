@@ -9,10 +9,10 @@
     margin-bottom: 0;
 }
 .header-menu ul li{
-    padding: 0 16px;
+    padding: 0 14px;
 }
 .header-menu ul li a{
-    padding: 5px 0;
+    padding: 5px;
     text-decoration: none;
     color: #fff;
     border-bottom: 1px solid #fff;
